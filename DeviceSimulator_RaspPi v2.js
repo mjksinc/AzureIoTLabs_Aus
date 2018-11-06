@@ -28,6 +28,7 @@ function getMessage(cb) {
       cb(JSON.stringify({
         messageId: messageId,
         deviceId: '110203',
+        measureTimeStamp : new Date(),
         temperature: data.temperature_C,
         tempmin: 15,
         tempmax: 35,
