@@ -1,0 +1,1 @@
+SELECT deviceId, temperature, tempmin, tempmax, temptarget, humidity, humiditymin, humiditymax, humiditytarget, (pressure * 100) AS pressurehpa, System.TimeStamp AS AEST INTO powerbi FROM iothub
