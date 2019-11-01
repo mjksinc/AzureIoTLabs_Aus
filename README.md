@@ -3,3 +3,6 @@ This content is intended for introduction on the latest Azure IoT services and i
 
 # Raspberry Pi Simulator
 Link to device simulator: https://azure-samples.github.io/raspberry-pi-web-simulator/#Getstarted
+
+# IoT Demo Page Link (MSFT Only)
+https://azure-iot-megamap.azurewebsites.net/dashboard
